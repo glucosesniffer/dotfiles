@@ -1,10 +1,14 @@
 # Configs:
-- Terminal<br> - Tmux<br> - Vim.
-# Usage:<br> Put the files in your home directory<br> Open Vim <br> Type: <br>
+- Terminal
+- Tmux
+- Vim.
+# Usage:
+- Put the files in your home directory
+- Open Vim 
+- Type: 
 ```
 :so $MYVIRMC
 :q
-
 ```
 Then:
 ```
