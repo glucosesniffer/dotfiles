@@ -2,6 +2,7 @@
 - Terminal
 - Tmux
 - Vim.
+- PeachPuff Dark Theme
 # Usage:
 - Put the files in your home directory
 - Open Vim 
