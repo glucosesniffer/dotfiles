@@ -1,4 +1,4 @@
-# Configs:
+# Files:
 - Terminal
 - Tmux
 - Vim.
