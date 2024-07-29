@@ -1,9 +1,9 @@
-# Files:
+## Files:
 - Terminal
 - Tmux
 - Vim.
 - PeachPuff Dark Theme
-# Usage:
+## Usage:
 - Put the files in your home directory
 - Open Vim 
 - Type: 
